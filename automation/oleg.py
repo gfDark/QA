@@ -45,6 +45,7 @@ else:
 	print("Что-то пошло не так!")
 
 time.sleep(3)
+time.sleep(10)
 
 
 
