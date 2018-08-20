@@ -1,0 +1,12 @@
+1) pip - установка библиотек
+pip install selenium
+2) Должен быть хром 
+3) Должен быть скачан хром драйвер http://chromedriver.chromium.org/downloads
+4) Скачанный драйвер помещаем в C:\Program Files\Python36\Scripts
+5) Приступаем к написани скрипта создав файл с разрешением .py
+
+
+6) Главная дока по селениуму http://selenium-python.readthedocs.io/getting-started.html
+
+
+7) Копирование Xpath с помощью Chrome devtool - выбрать элемент  - copy > xpath
